@@ -1,0 +1,13 @@
+.container {
+    width: 200px;
+    height: 200px;
+    border: 1px solid #000;
+    overflow: scroll; /* This will hide the overflow content */
+  }
+  
+  .content {
+    width: 300px;
+    height: 300px;
+    background-color:rgb(117, 117, 197);
+    padding: 20px;
+  }
